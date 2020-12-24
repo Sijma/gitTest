@@ -11,7 +11,7 @@ public class HelloServlet extends HttpServlet
 
     public void init()
     {
-        message = "Hello World 3.0! (BETA)";
+        message = "Γεια σου γιαννη (BETA)";
     }
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException
